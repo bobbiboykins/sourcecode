@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src/main/java">
 		<attributes>
-			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+			<attribute name="FROM_GRADLE_MODEL" value="false"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src/main/resources">
